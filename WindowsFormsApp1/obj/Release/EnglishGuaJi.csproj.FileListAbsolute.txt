@@ -1,0 +1,9 @@
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.GuaJiBao.resources
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\EnglishGuaJi.csproj.GenerateResource.Cache
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+d:\xiaoliu\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\EnglishGuaJi.csprojResolveAssemblyReference.cache
